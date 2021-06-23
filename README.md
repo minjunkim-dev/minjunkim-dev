@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm minjunkim</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<h3 align="center">I am a developer interested in optimization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minjunkim-dev&label=Profile%20views&color=0e75b6&style=flat" alt="minjunkim-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minjunkim-dev" alt="minjunkim-dev" /></a> </p>
+
+- 🌱 I’m currently learning **pytorch, optimization**
+
+- 👨‍💻 All of my projects are available at [https://github.com/minjunkim-dev](https://github.com/minjunkim-dev)
 
 - 📫 How to reach me **minjunkim.dev@gmail.com**
 

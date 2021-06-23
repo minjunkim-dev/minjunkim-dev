@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm minjunkim</h1>
+<h1 align="center">Hi 👋, I'm MinJun Kim</h1>
 <h3 align="center">I am a developer interested in optimization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minjunkim-dev&label=Profile%20views&color=0e75b6&style=flat" alt="minjunkim-dev" /> </p>

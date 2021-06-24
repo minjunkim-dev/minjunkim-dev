@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MinJun Kim</h1>
-<h3 align="center">I am a developer interested in optimization.</h3>
+<h3 align="center">I am an aspirant to optimization developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minjunkim-dev&label=Profile%20views&color=0e75b6&style=flat" alt="minjunkim-dev" /> </p>
 

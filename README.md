@@ -1,22 +1,82 @@
-<h1 align="center">Hi 👋, I'm MinJun Kim</h1>
-<h3 align="center">I am an aspirant to optimization developer.</h3>
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=minjunkim-dev&&style=flat-square" align="right" />
+</div>  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minjunkim-dev&label=Profile%20views&color=0e75b6&style=flat" alt="minjunkim-dev" /> </p>
+<br/>  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minjunkim-dev" alt="minjunkim-dev" /></a> </p>
+## Hi There 👋  
+  
 
-- 🌱 I’m currently learning **pytorch, optimization**
+<a href="https://github.com/minjunkim-dev" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+  
 
-- 👨‍💻 All of my projects are available at [https://github.com/minjunkim-dev](https://github.com/minjunkim-dev)
-
-- 📫 How to reach me **minjunkim.dev@gmail.com**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Hello, I'm Minjun Kim!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minjunkim-dev&show_icons=true&locale=en&layout=compact" alt="minjunkim-dev" /></p>
+Good day!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minjunkim-dev&show_icons=true&locale=en" alt="minjunkim-dev" /></p>
+I am an aspirant to optimization developer from South Korea 🇰🇷. I am interested in optimization and deep learning and computer vision. I love reading, exercising and communicating! 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minjunkim-dev&" alt="minjunkim-dev" /></p>
+If you want to contact me, please leave me a message!
+ 
+<br/>
+
+### 💫 Experience
+- **undergraduate researcher** - System Design Lab(SDL), Sejong University *(Jan 2021 ~)*
+- **undergraduate** - Data Science, Sejong University *(2018 ~)*  
+  
+
+<br/>  
+
+
+### ✨ Summary
+
+- 🔭 I’m currently working on System Design Lab(SDL) as a undergraduate researcher.
+- 🌱 I'm currently learning optimization, deep learning.
+- 📝 I'm planning to write articles on [my blog](https:minjunkim-dev//.tistory.com).  
+  
+
+<br/>  
+
+<div sttyle='float:left'>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" />  
+</div>
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=minjunkim-dev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkim-dev&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+
+<!--
+**minjunkim-dev/minjunkim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- ...
+-->

@@ -20,7 +20,7 @@
 Good day!
 
 I am an aspirant to optimization developer from South Korea 🇰🇷.
-I am interested in optimization and deep learning and computer vision.
+I am interested in optimization and deep learning.
 I love gaming and watching movies.
 
 If you want to contact me, please leave me a message!

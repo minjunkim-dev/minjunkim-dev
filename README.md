@@ -20,7 +20,7 @@
 Good day!
 
 I am an aspirant to optimization developer from South Korea 🇰🇷.
-I am interested in optimization and deep learning.
+I am interested in iOS and systematic optimization.
 I love gaming and watching movies.
 
 If you want to contact me, please leave me a message!
@@ -28,7 +28,8 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ### 💫 Experience
-- **undergraduate researcher** - System Design Lab(SDL), Sejong University *(Jan 2021 ~)*
+- **SSAC(Seoul Software Academy Cluster) 3rd Year Trainee** - iOS App Developer Debut Process *(Sep 2021 ~ )*
+- **undergraduate researcher** - System Design Lab(SDL), Sejong University *(Jan 2021 ~ Sep 2021)*
 - **undergraduate** - Data Science, Sejong University *(2018 ~)*  
   
 
@@ -37,9 +38,9 @@ If you want to contact me, please leave me a message!
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on System Design Lab(SDL) as a undergraduate researcher.
-- 🌱 I'm currently learning optimization, deep learning.
-- 📝 I'm planning to write articles on [my blog](https:minjunkim-dev//.tistory.com).  
+- 🔭 I’m currently learning on SSAC(Seoul Software Academy Cluster) iOS App Developer Debut Process.
+- 🌱 I'm currently learning Swift, iOS, and algorithm.
+<!-- - 📝 I'm planning to write articles on [my blog](https:).   -->
   
 
 <br/>  
@@ -49,7 +50,8 @@ If you want to contact me, please leave me a message!
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /> 
 
 </div>
 

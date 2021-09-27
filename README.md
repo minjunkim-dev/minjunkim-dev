@@ -19,11 +19,11 @@
 
 Good day!
 
-I am an aspirant to optimization developer from South Korea 🇰🇷.
-I am interested in iOS and systematic optimization.
-I love gaming and watching movies.
+- I am an aspirant to optimization developer from South Korea 🇰🇷.
+- I am interested in iOS and systematic optimization.
+- I love gaming and watching movies.
 
-If you want to contact me, please leave me a message!
+- If you want to contact me, please leave me a message!
  
 <br/>
 

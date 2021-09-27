@@ -19,18 +19,18 @@
 
 Good day!
 
-- I am an aspirant to optimization developer from South Korea 🇰🇷.
-- I am interested in iOS and systematic optimization.
-- I love gaming and watching movies.
+I am an aspirant to optimization developer from South Korea 🇰🇷.
+I am interested in iOS and systematic optimization.
+I love gaming and watching movies.
 
-- If you want to contact me, please leave me a message!
+If you want to contact me, please leave me a message!
  
 <br/>
 
 ### 💫 Experience
 - **SSAC(Seoul Software Academy Cluster) 3rd Year Trainee** - iOS App Developer Debut Process *(Sep 2021 ~ )*
 - **undergraduate researcher** - System Design Lab(SDL), Sejong University *(Jan 2021 ~ Sep 2021)*
-- **undergraduate** - Data Science, Sejong University *(2018 ~)*  
+- **undergraduate** - Data Science, Sejong University *(Mar 2018 ~ Feb 2022)*  
   
 
 <br/>  
@@ -46,12 +46,13 @@ Good day!
 <br/>  
 
 <div sttyle='float:left'>
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="25" /> 
 
 </div>
 

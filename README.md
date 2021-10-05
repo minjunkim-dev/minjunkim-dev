@@ -28,7 +28,7 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ### 💫 Experience
-- **SSAC(Seoul Software Academy Cluster) 3rd Year Trainee** - iOS App Developer Debut Process *(Sep 2021 ~ )*
+- **SeSAC(Seoul Software Academy Cluster) 3rd Year Trainee** - iOS App Developer Debut Process *(Sep 2021 ~ )*
 - **undergraduate researcher** - System Design Lab(SDL), Sejong University *(Jan 2021 ~ Sep 2021)*
 - **undergraduate** - Data Science, Sejong University *(Mar 2018 ~ Feb 2022)*  
   
@@ -38,7 +38,7 @@ If you want to contact me, please leave me a message!
 
 ### ✨ Summary
 
-- 🔭 I’m currently learning on SSAC(Seoul Software Academy Cluster) iOS App Developer Debut Process.
+- 🔭 I’m currently learning on SeSAC(Seoul Software Academy Cluster) iOS App Developer Debut Process.
 - 🌱 I'm currently learning Swift, iOS, and algorithm.
 <!-- - 📝 I'm planning to write articles on [my blog](https:).   -->
   

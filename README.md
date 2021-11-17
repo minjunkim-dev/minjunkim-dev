@@ -30,7 +30,7 @@ If you want to contact me, please leave me a message!
 ### 💫 Experience
 - **SeSAC(Seoul Software Academy Cluster) 3rd Year Trainee** - iOS App Developer Debut Process *(Sep 2021 ~ )*
 - **undergraduate researcher** - System Design Lab(SDL), Sejong University *(Jan 2021 ~ Sep 2021)*
-- **undergraduate** - Data Science, Sejong University *(Mar 2018 ~ Feb 2022)*  
+- **graduate** - Data Science, Sejong University *(Mar 2018 ~ Feb 2022)* 
   
 
 <br/>  

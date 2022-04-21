@@ -4,7 +4,7 @@
 <div align="center">
   
 <!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkim-dev&theme=dracula&layout=compact&langs_count=10"/> -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=minjunkim-dev&theme=Gradient"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=minjunkim-dev&theme=moltack"/>
   
   ###  Minjun Kim 🧑🏻‍💻
   

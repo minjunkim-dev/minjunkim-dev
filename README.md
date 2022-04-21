@@ -13,7 +13,7 @@
 </a>
 
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjunkim.dev@gmail.com)](mailto:minjunkim.dev@gmail.com)
   
 
 

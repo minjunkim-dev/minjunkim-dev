@@ -9,15 +9,11 @@
   
 
 <a href="https://github.com/minjunkim-dev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjunkim.dev@gmail.com)](mailto:minjunkim.dev@gmail.com)
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@minjunkim-dev)](https://velog.io/@minjunkim-dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/민준-김-a79621234/)](https://www.linkedin.com/in/민준-김-a79621234/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjunkim.dev@gmail.com)](mailto:minjunkim.dev@gmail.com)
   
-
-
 
 ### Hello, I'm Minjun Kim!
 

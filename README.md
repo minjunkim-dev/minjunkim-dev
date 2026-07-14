@@ -4,6 +4,12 @@
 
 Swift/iOS를 중심으로 React Native 양 플랫폼 제품의 구현, 출시, 테스트와 운영까지 맡는 5년차 모바일 엔지니어입니다. 현재 Personal AI(구 SNPLAB) 앱팀에서 MyD와 TBN교통방송을 유지보수·운영하고 있습니다.
 
+## Featured Open Source
+
+### [ios-production-patterns](https://github.com/minjunkim-dev/ios-production-patterns)
+
+Swift 6 패키지로 정리한 모바일 운영 신뢰성 패턴입니다. 잘못된 원격 정책을 안전하게 통과시키는 version gate, stale 비동기 응답을 차단하는 latest-request gate, bounded timeout을 XCTest와 GitHub Actions로 검증합니다.
+
 ## Production Experience
 
 | Product | Scope | Public links |

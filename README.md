@@ -35,6 +35,6 @@ AI는 제한된 구현·탐색·코드 리뷰에 활용하고, 최종 판단은 
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EC%A4%80-%EA%B9%80-a79621234/)
-- [Velog](https://velog.io/@minjunkim-dev)
+- [Tech Notes](https://minjunkim-dev.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/minjun-kim-bene-dev/)
 - [Email](mailto:minjunkim.dev@gmail.com)

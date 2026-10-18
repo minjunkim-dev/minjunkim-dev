@@ -2,7 +2,7 @@
 
 **Mobile Engineer · iOS / React Native**
 
-Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영을 맡아 온 모바일 엔지니어입니다(경력 4년 4개월). Personal AI(구 SNPLAB) 앱팀에서 2022.06부터 2026.10까지 MyD, TBN교통방송, 장병e음 모바일 신분증을 만들었고, 앱이 의존하는 SDK·인증 서버·CI/CD도 직접 구성했습니다.
+Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영을 맡아 온 모바일 엔지니어입니다(경력 4년 4개월). Personal AI(구 SNPLAB) 앱팀에서 2022.06부터 2026.10까지 MyD, tbn교통방송, 장병e음 모바일 신분증을 만들었고, 앱이 의존하는 SDK·인증 서버·CI/CD도 직접 구성했습니다.
 
 ## Projects
 
@@ -17,7 +17,7 @@ Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영�
 | Product | Scope | Links |
 |---|---|---|
 | **MyD** | Swift/iOS · 데이터 거래·본인인증·데이터 연동 · 87개 버전 배포, crash-free 세션 99.8% (2026년 7~9월) | [App Store](https://apps.apple.com/kr/app/id1576612543) · [Google Play](https://play.google.com/store/apps/details?id=io.snplab.myd) |
-| **TBN교통방송** | React Native/TypeScript · fail-open 강제 업데이트 · 2026-05-28 iOS·Android 정식 출시 | [App Store](https://apps.apple.com/kr/app/id969867489) · [Google Play](https://play.google.com/store/apps/details?id=com.mtelo.tbn) |
+| **tbn교통방송** | React Native/TypeScript · fail-open 강제 업데이트 · 2026-05-28 iOS·Android 정식 출시 | [App Store](https://apps.apple.com/kr/app/id969867489) · [Google Play](https://play.google.com/store/apps/details?id=com.mtelo.tbn) |
 | **장병e음 모바일 신분증** | iOS 모듈 통합 · DID·VC 발급, 온라인·오프라인 검증, 앱 보안 | [App Store](https://apps.apple.com/kr/app/id6744992032) · [Google Play](https://play.google.com/store/apps/details?id=kr.go.mnd.mosp) |
 
 다운로드 수 같은 제품 지표는 개인 성과와 섞지 않습니다.

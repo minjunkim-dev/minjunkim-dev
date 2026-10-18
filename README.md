@@ -4,6 +4,8 @@
 
 Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영을 맡아 온 모바일 엔지니어입니다(경력 4년 4개월). Personal AI(구 SNPLAB) 앱팀에서 2022.06부터 2026.10까지 MyD, tbn교통방송, 장병e음 모바일 신분증을 만들었고, 앱이 의존하는 SDK·인증 서버·CI/CD도 직접 구성했습니다.
 
+성공 신호를 그대로 믿지 않고 확인합니다. 응답 코드, 빌드 통과, 도구의 '성공' 보고를 실제 결과로 다시 검증합니다.
+
 ## Projects
 
 | Project | What | Highlights |
@@ -27,6 +29,7 @@ Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영�
 - **iOS:** Swift, SwiftUI, UIKit, Swift Concurrency, SwiftPM·XCFramework SDK
 - **Cross-platform:** React Native, TypeScript, Kotlin/Android, Flutter 연동
 - **Server & delivery:** Node.js, Rust(axum), PostgreSQL, GitLab CI, Fastlane
+- **Infra & ops:** GitLab Runner(Docker), Prometheus·Grafana, AWS(CloudFront·S3), Cloudflare Zero Trust
 - **Reliability:** race·timeout·fail-open 설계, 측정으로 원인 찾기
 
 ## How I Work with AI

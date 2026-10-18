@@ -12,7 +12,7 @@ Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영�
 |---|---|---|
 | [Runstir](https://github.com/minjunkim-dev/mobile-runtime) | `git clone` 후 `mobile up` 한 번으로 React Native 앱을 Simulator·Emulator에서 실행하는 macOS CLI (Swift 6.2) | Metro 정체성 판정으로 거짓 성공 제거 · 테스트 415개 · ADR 37건 · Homebrew alpha |
 | [smallnext](https://github.com/minjunkim-dev/smallnext) | 큰 목표를 지금 할 수 있는 다음 행동 하나로 바꾸는 플래너 (SwiftUI + Rust API) | LLM 생성기·검사기 분리 · 비용 예약·정산 원장 · 검사 지연 −39.4% (로컬 실측) |
-| [ios-production-patterns](https://github.com/minjunkim-dev/ios-production-patterns) | 운영에서 겪은 문제를 일반화한 Swift 6 패키지 | fail-open version gate · latest-request gate · bounded timeout · actor startup coordinator |
+| [Tech Notes](https://minjunkim-dev.github.io/) | 기술 글 4편. 글 속 코드는 글마다 테스트 파일로 두고 CI에서 실행 ([examples](https://github.com/minjunkim-dev/minjunkim-dev.github.io/tree/main/examples)) | 공개 응답 SHA-256 배포 검증 · fail-open 강제 업데이트 · actor 초기화 공유 · ImageIO 다운샘플링 |
 
 ## Production Experience
 

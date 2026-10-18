@@ -18,7 +18,7 @@ Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영�
 
 | Product | Scope | Links |
 |---|---|---|
-| **MyD** | Swift/iOS · 데이터 거래·본인인증·데이터 연동 · 87개 버전 심사·배포 대부분 직접, crash-free 세션 99.8% (2026년 7~9월) | [App Store](https://apps.apple.com/kr/app/id1576612543) · [Google Play](https://play.google.com/store/apps/details?id=io.snplab.myd) |
+| **MyD** | Swift/iOS · 데이터 거래·본인인증·데이터 연동 · 2022.06 이후 87개 버전 출시(심사 제출 대부분 직접), crash-free 세션 99.8% (2026년 7~9월) | [App Store](https://apps.apple.com/kr/app/id1576612543) · [Google Play](https://play.google.com/store/apps/details?id=io.snplab.myd) |
 | **tbn교통방송** | React Native/TypeScript · fail-open 강제 업데이트 · 2026-05-28 iOS·Android 정식 출시 | [App Store](https://apps.apple.com/kr/app/id969867489) · [Google Play](https://play.google.com/store/apps/details?id=com.mtelo.tbn) |
 | **장병e음 모바일 신분증** | iOS 모듈 통합 · DID·VC 발급과 온라인 검증 구현, 오프라인 검증 연계, 앱 보안 | [App Store](https://apps.apple.com/kr/app/id6744992032) · [Google Play](https://play.google.com/store/apps/details?id=kr.go.mnd.mosp) |
 

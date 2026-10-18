@@ -2,7 +2,7 @@
 
 **Mobile Engineer · iOS / React Native**
 
-Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영을 맡아 온 모바일 엔지니어입니다(경력 4년 4개월). Personal AI(구 SNPLAB) 앱팀에서 2022.06부터 2026.10까지 MyD, tbn교통방송, 장병e음 모바일 신분증을 만들었고, 앱이 의존하는 SDK·인증 서버·CI/CD도 직접 구성했습니다.
+Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영을 맡아 온 모바일 엔지니어입니다(경력 4년 4개월). Personal AI(구 SNPLAB) 앱팀에서 2022.06부터 2026.10까지 MyD(iOS)와 tbn교통방송(React Native)에서 개발·심사·배포·운영을 맡았고, 장병e음 앱에는 모바일 신분증 모듈을 통합했습니다. 앱이 의존하는 SDK·인증 서버·CI/CD도 직접 구성했습니다.
 
 성공 신호를 그대로 믿지 않고 확인합니다. 응답 코드, 빌드 통과, 도구의 '성공' 보고를 실제 결과로 다시 검증합니다. 대표 글: [HTTP 200은 배포 성공이 아니다](https://minjunkim-dev.github.io/writing/web-deploy-verify-public-sha256/)
 

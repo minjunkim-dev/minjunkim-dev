@@ -16,7 +16,7 @@ Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영�
 | **B2B 데이터 수집 SDK·인증 서버** | 출시 준비 단계 · 설계·구현 혼자 담당 · Swift·Kotlin SDK, Node.js·PostgreSQL 인증 서버 · 고객사 영구 API 비밀키가 앱에 들어가지 않는 일회용 토큰 구조 · Android SDK 테스트 간헐 실패 2,400세션 중 15건→0건(실행 순서 경합 규명) | 비공개 |
 | **사내 CI/CD·배포** | 2026.07–10, 앱 업무와 병행 · 원인 불명 Android CI 실패를 메모리 측정으로 OOM 규명 · CI 서버 디스크 사용률 100%→43%, 자동 정리기 설치 · Android CI 빌드 413초→174초(유휴 상태의 이전 Runner vs 캐시 있는 새 Runner) · 웹 프론트 3종 배포를 공개 URL 응답의 SHA-256 일치로 판정, 롤백 추가 · Bitbucket·Jenkins에서 GitLab으로 저장소 8개 이전 | [배포 검증 글](https://minjunkim-dev.github.io/writing/web-deploy-verify-public-sha256/) |
 | **사내 모니터링·사내망** | Prometheus·Grafana로 서버 10대·대상 18개 수집, 알림 16개 · 사내망을 OpenVPN에서 Cloudflare WARP(Zero Trust)로 전환 | 비공개 |
-| **마이주식** | Flutter·Firebase · 인턴 프로젝트 기술 지원(보안·배포·서버리스 백엔드) · 1.1.0 출시 당일 1.0.0 앱의 가입 실패를 운영 로그로 추적해 복구 · Firebase Functions 통합 테스트 572건 74.5초→약 20초(로컬, 워커 4개) | — |
+| **마이주식** | Flutter·Firebase · 인턴 프로젝트 기술 지원(보안·배포·서버리스 백엔드) · 1.1.0 출시 당일 1.0.0 앱의 가입 실패를 운영 로그로 추적해 복구 · Firebase Functions 통합 테스트 572건 74.5초→약 20초(로컬, 워커 4개) | [App Store](https://apps.apple.com/kr/app/id6805333415) · [Google Play](https://play.google.com/store/apps/details?id=com.personalai.mytalk) · [ONE store](https://m.onestore.co.kr/v2/ko-kr/app/0001009180) |
 
 ## Projects
 

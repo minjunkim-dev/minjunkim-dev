@@ -10,7 +10,7 @@ Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영�
 
 | Project | What | Highlights |
 |---|---|---|
-| [Runstir](https://github.com/minjunkim-dev/mobile-runtime) | 앱 개발 환경 준비·실행 도구 (Swift 6.2, alpha). 1.0.0 목표는 Native·React Native·Flutter 앱을 iOS·Android에서 실행하는 것. 현재 alpha는 버전을 고정한 공개 React Native 앱으로 검증. Native·Flutter·macOS GUI는 main에 병합했고 alpha 검증 전 | 다른 프로젝트의 개발 서버(Metro)를 재사용해 실패를 성공으로 보고하던 문제 수정 · alpha.4 기준 테스트 482개 · ADR 40건 · Homebrew alpha |
+| [Runstir](https://github.com/minjunkim-dev/mobile-runtime) | 앱 개발 환경 준비·실행 도구 (Swift 6.2, alpha). 1.0.0 목표는 Native·React Native·Flutter 앱을 iOS·Android에서 실행하는 것. 현재 alpha는 버전을 고정한 공개 React Native 앱으로 검증. Native 앱 실행 경로·Flutter SDK 준비·macOS GUI는 main에 병합했고 alpha 검증 전 | 다른 프로젝트의 개발 서버(Metro)를 재사용해 실패를 성공으로 보고하던 문제 수정 · alpha.4 기준 테스트 482개 · ADR 40건 · Homebrew alpha |
 | [smallnext](https://github.com/minjunkim-dev/smallnext) | 큰 목표를 지금 할 수 있는 다음 행동 하나로 바꾸는 플래너 (SwiftUI + Rust API, 미출시) | LLM 생성기·검사기 분리 · 비용 예약·정산 원장 · 생성·검사 전체 시간 중앙값 −16.9%(로컬 CLI, AB/BA 4쌍) |
 | [Tech Notes](https://minjunkim-dev.github.io/) | 기술 글 4편. 글 속 코드는 글마다 테스트 파일로 두고 CI에서 실행 ([examples](https://github.com/minjunkim-dev/minjunkim-dev.github.io/tree/main/examples)) | 공개 응답 SHA-256 배포 검증 · fail-open 강제 업데이트 · actor 초기화 공유 · ImageIO 다운샘플링 |
 

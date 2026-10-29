@@ -34,7 +34,7 @@ Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영�
 - **Cross-platform:** React Native, TypeScript, Kotlin/Android, Flutter·KMP 연동
 - **Server:** Node.js, TypeScript(Firebase Functions), Rust(axum·sqlx), PostgreSQL, Firestore
 - **CI/CD:** GitLab CI, GitHub Actions, Jenkins, Fastlane
-- **Infra & ops:** Linux·Docker(GitLab Runner), AWS(CloudFront·S3·ALB·Route 53), NGINX, Prometheus·Grafana, Cloudflare Zero Trust
+- **Infra & ops:** Linux·Docker(GitLab Runner), AWS(CloudFront·S3 배포, ALB·Route 53은 구성 문서화), NGINX, Prometheus·Grafana, Cloudflare Zero Trust
 - **Reliability:** race·timeout·fail-open 설계, 측정으로 원인 찾기
 
 ## How I Work with AI

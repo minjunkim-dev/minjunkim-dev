@@ -11,7 +11,7 @@ Swift/iOS를 중심으로 React Native 앱까지 개발, 심사, 출시, 운영�
 | Work | Scope | Links |
 |---|---|---|
 | **MyD** | Swift/iOS · 데이터 거래·본인인증 화면 흐름·데이터 연동 · 앱 전체 기준 2022.06 이후 87개 버전 출시, 심사 제출은 대부분 직접 · iOS 앱 crash-free 세션 99.8%(2026년 7~9월, Crashlytics) | [App Store](https://apps.apple.com/kr/app/id1576612543) · [Google Play](https://play.google.com/store/apps/details?id=io.snplab.myd) |
-| **tbn교통방송** | React Native/TypeScript · 발주처 요구사항·일정 조율(PM 지원 → PM·기획자가 빠진 뒤 전담) · fail-open 강제 업데이트 · 2026-05-28 iOS·Android 정식 출시 | [App Store](https://apps.apple.com/kr/app/id969867489) · [Google Play](https://play.google.com/store/apps/details?id=com.mtelo.tbn) |
+| **tbn교통방송** | React Native/TypeScript · 발주처 요구사항·일정 조율(PM 지원 → PM이 빠진 뒤 전담) · fail-open 강제 업데이트 · 2026-05-28 iOS·Android 정식 출시 | [App Store](https://apps.apple.com/kr/app/id969867489) · [Google Play](https://play.google.com/store/apps/details?id=com.mtelo.tbn) |
 | **장병e음 모바일 신분증** | iOS 모듈 통합 · DID·VC 발급 통합과 온라인 검증 구현, 오프라인 검증 연계, 앱 보안 | [App Store](https://apps.apple.com/kr/app/id6744992032) · [Google Play](https://play.google.com/store/apps/details?id=kr.go.mnd.mosp) |
 | **MyD 고객 문의 자동 답변(RAG)** | 사내 · 2026.06–07, 운영 2026.10까지 · Python·FastAPI·bge-m3·ChromaDB·로컬 LLM·n8n · Jira로 들어온 고객 문의에 FAQ 근거로 답하고, 근거가 부족하면 답하지 않고 운영자에게 넘김 · 샘플 FAQ를 실제 FAQ 9개 문서로 바꿔 실제 고객 문의에 적용 · 구현은 AI 코딩 에이전트, 에이전트가 지킬 조건 지정과 결과 검증은 본인 | 비공개 |
 | **B2B 데이터 수집 SDK·인증 서버** | 고객사 전달 전 중단 · 설계·검증은 본인, 구현은 AI 코딩 에이전트 위주 · Swift·Kotlin SDK, Node.js·PostgreSQL 인증 서버 · 고객사 영구 API 비밀키가 앱에 들어가지 않는 일회용 토큰 구조 · Android SDK 테스트 간헐 실패 2,400세션 중 15건→0건(실행 순서 경합 규명) | 비공개 |

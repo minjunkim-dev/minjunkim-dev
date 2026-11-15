@@ -1,6 +1,6 @@
 # MINJUN KIM
 
-**Mobile Engineer · iOS / React Native · RAG·SDK·CI/CD·인프라**
+**Mobile Engineer · iOS / React Native · AI 코딩 에이전트로 만들고 결과는 직접 검증**
 
 주로 iOS 앱을 개발하고 심사·출시·운영까지 맡아 온 모바일 엔지니어입니다(경력 4년 4개월). Personal AI(구 SNPLAB)에서 2022.06부터 2026.10까지 MyD iOS 앱과 tbn교통방송 React Native 앱을 만들었고, 장병e음 앱에는 모바일 신분증 모듈을 통합했습니다. 2026년에는 사내 고객 문의 자동 답변(RAG)을 운영에 연결하고 B2B 데이터 수집 SDK와 인증 서버를 설계했습니다. 7월부터는 앱 업무와 함께 사내 CI/CD·배포·모니터링·사내망도 맡았습니다. 자동 답변·SDK·인프라는 구현을 AI 코딩 에이전트 위주로 했고, 저는 에이전트가 지킬 조건을 정하고 결과를 검증했습니다.
 

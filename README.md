@@ -23,8 +23,9 @@
 
 | Project | What | Highlights |
 |---|---|---|
-| [Runstir](https://github.com/minjunkim-dev/mobile-runtime) | 앱 개발 환경 준비·실행 도구 (Swift 6.2, alpha). alpha는 버전을 고정한 공개 React Native 앱으로 검증. Native 앱 실행·Flutter SDK 준비·macOS GUI는 main에 병합, alpha 검증 전 | 다른 프로젝트의 개발 서버(Metro)를 재사용해 실패를 성공으로 보고하던 문제 수정 · alpha.4 기준 테스트 482개 · ADR 40건 · Homebrew alpha |
-| [smallnext](https://github.com/minjunkim-dev/smallnext) | 큰 목표를 지금 할 수 있는 다음 행동 하나로 바꾸는 플래너 (SwiftUI + Rust API, 미출시) | LLM 생성기·검사기 분리 · 비용 예약·정산 원장 · 생성·검사 전체 시간 중앙값 −16.9%(로컬 CLI, AB/BA 4쌍) |
+| [Runstir](https://github.com/minjunkim-labs/mobile-runtime) | 앱 개발 환경 준비·실행 도구 (Swift 6.2, alpha). alpha는 버전을 고정한 공개 React Native 앱으로 검증. Native 앱 실행·Flutter SDK 준비·macOS GUI는 main에 병합, alpha 검증 전 | 다른 프로젝트의 개발 서버(Metro)를 재사용해 실패를 성공으로 보고하던 문제 수정 · alpha.4 기준 테스트 482개 · ADR 40건 · Homebrew alpha |
+| [smallnext](https://github.com/minjunkim-labs/smallnext) | 큰 목표를 지금 할 수 있는 다음 행동 하나로 바꾸는 플래너 (SwiftUI + Rust API, 미출시) | LLM 생성기·검사기 분리 · 비용 예약·정산 원장 · 생성·검사 전체 시간 중앙값 −16.9%(로컬 CLI, AB/BA 4쌍) |
+| [repo-baseline](https://github.com/minjunkim-labs/repo-baseline) · [repo-office](https://github.com/minjunkim-labs/repo-office) | 개인 저장소가 함께 따르는 개발 규칙과, 이슈 하나를 PR 직전까지 단계로 돌리는 에이전트 파이프라인(실험) | AI가 만든 PR도 다른 컨텍스트 리뷰·필수 CI·머지 큐를 거쳐 병합 · GitHub 저장소 설정을 스크립트로 검사·적용 |
 | [Tech Notes](https://minjunkim-dev.github.io/) | 기술 글 4편. 글 속 코드는 글마다 테스트 파일로 두고 CI에서 실행 ([examples](https://github.com/minjunkim-dev/minjunkim-dev.github.io/tree/main/examples)) | 공개 응답 SHA-256 배포 검증 · fail-open 강제 업데이트 · actor 초기화 공유 · ImageIO 다운샘플링 |
 
 ## Focus
@@ -39,8 +40,8 @@
 
 ## How I Work with AI
 
-스펙, 티켓, 구현, 리뷰, MR을 에이전트로 잇고, AI가 만든 변경도 사람이 쓴 변경과 같은 테스트·리뷰·CI 관문을 통과해야 병합합니다.
+스펙, 티켓, 구현, 리뷰, MR을 에이전트로 잇고, AI가 만든 변경도 사람이 쓴 변경과 같은 테스트·리뷰·CI 관문을 통과해야 병합합니다. 규칙과 도구는 [repo-baseline](https://github.com/minjunkim-labs/repo-baseline)에 공개합니다.
 
 ## Links
 
-[Tech Notes](https://minjunkim-dev.github.io/) · [LinkedIn](https://www.linkedin.com/in/minjun-kim-bene-dev/) · [Email](mailto:minjunkim.dev@gmail.com)
+[Tech Notes](https://minjunkim-dev.github.io/) · [minjunkim-labs](https://github.com/minjunkim-labs) · [LinkedIn](https://www.linkedin.com/in/minjun-kim-bene-dev/) · [Email](mailto:minjunkim.dev@gmail.com)

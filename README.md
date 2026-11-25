@@ -30,7 +30,7 @@
 
 ## Focus
 
-- **AI:** RAG(사내, 에이전트 구현): Python·FastAPI, bge-m3, ChromaDB, n8n · Anthropic API(smallnext, 연동 전), Claude Code·Codex
+- **AI:** RAG(사내, 에이전트 구현): Python·FastAPI, bge-m3, ChromaDB, n8n · Claude Code·Codex
 - **iOS:** Swift, SwiftUI, UIKit, Swift Concurrency, SwiftPM·XCFramework SDK
 - **Cross-platform:** React Native, TypeScript, Kotlin/Android, Flutter·KMP 연동
 - **Server:** Node.js, TypeScript(Firebase Functions), Rust(axum·sqlx), PostgreSQL, Firestore
